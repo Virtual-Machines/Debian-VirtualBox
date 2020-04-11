@@ -1,7 +1,7 @@
 # Debian VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Debian-VirtualBox/releases/download/latest/Debian.ova)
 Last update: 2020-04-11
 
-- Debian LXDE
+- Debian 10 LXDE
 - Linux Kernel 4.
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
 - Synaptic package manager
