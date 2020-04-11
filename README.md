@@ -1,2 +1,14 @@
 # Debian VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Debian-VirtualBox/releases/download/latest/Debian.ova)
 Last update: 2020-04-11
+
+- Debian LXDE
+- Linux Kernel 4.
+- VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
+- Synaptic package manager
+- Basic python http server included. Example: python3 -m http.server 8080
+- Command-line download manager: wget
+- NAT port forwarding configured on 8080 that allows web browser testing outside virtual machine
+- It can be used as a base of development environments, to test software...
+- OVA file less than **800 MB**
+- User and pass of system is the same: **debian**
+- Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
