@@ -1,6 +1,5 @@
 # Debian VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Debian-VirtualBox/releases/download/latest/Debian.ova)
 Last update: 2020-04-11
-![Debian](https://raw.githubusercontent.com/Virtual-Machines/Debian-VirtualBox/master/debian.png)
 
 - Debian 10 LXDE
 - Linux Kernel 4.
@@ -13,3 +12,6 @@ Last update: 2020-04-11
 - OVA file less than **800 MB**
 - User and pass of system is the same: **debian**
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
+![Debian](https://raw.githubusercontent.com/Virtual-Machines/Debian-VirtualBox/master/debian.png)
+
+
