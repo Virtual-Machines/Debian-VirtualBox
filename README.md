@@ -12,6 +12,7 @@
 - OVA file less than **800 MB**
 - User and pass of system is the same: **debian**
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
+
 ![Debian](https://raw.githubusercontent.com/Virtual-Machines/Debian-VirtualBox/master/debian.png)
 
 
