@@ -1,2 +1,2 @@
-# Debian-VirtualBox
-Debian 10 Virtual Machine
+# Debian VirtualBox
+Last update: 2020-04-11
